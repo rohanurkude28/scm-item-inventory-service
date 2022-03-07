@@ -1,0 +1,12 @@
+com/spring/cloud/inventory/service/web/model/ItemInventoryDto.class
+com/spring/cloud/inventory/service/web/mappers/ItemInventoryMapperImpl.class
+com/spring/cloud/inventory/service/domain/ItemInventory$ItemInventoryBuilder.class
+com/spring/cloud/inventory/service/domain/ItemInventory.class
+com/spring/cloud/inventory/service/repositories/ItemInventoryRepository.class
+com/spring/cloud/inventory/service/bootstrap/ItemInventoryBootstrap.class
+com/spring/cloud/inventory/service/ItemInventoryApplication.class
+com/spring/cloud/inventory/service/domain/BaseEntity.class
+com/spring/cloud/inventory/service/web/mappers/DateMapper.class
+com/spring/cloud/inventory/service/web/controllers/ItemInventoryController.class
+com/spring/cloud/inventory/service/web/mappers/ItemInventoryMapper.class
+com/spring/cloud/inventory/service/web/model/ItemInventoryDto$ItemInventoryDtoBuilder.class

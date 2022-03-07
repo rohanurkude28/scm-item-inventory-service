@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.spring.cloud.inventory.service.ItemInventoryApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.099 s - in com.spring.cloud.inventory.service.ItemInventoryApplicationTests
